@@ -1,5 +1,4 @@
-# 100 Days Of ML
-
+# 100 Days Of ML Code
 
 
 ## Day 1 : March 30 , 2020
@@ -10,6 +9,10 @@
 
 **Link of Work:**  [ipynb](https://github.com/AvikantSrivastava/100-days-of-ML-Code/blob/master/Day1%20:%20MNIST%20GAN/mnist_gan.ipynb)
 
+  **References** 
+  - https://towardsdatascience.com/dcgans-deep-convolutional-generative-adversarial-networks-c7f392c2c8f8
+  - https://www.tensorflow.org/tutorials/generative/dcgan
+  
 
 
 ## Day 2 : March 30 , 2020

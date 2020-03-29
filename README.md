@@ -8,7 +8,7 @@
 
 **Thoughts** : I will try DCGAN on slightly more complex datasets such as Fashion MNIST and CIFAR-10.
 
-**Link of Work:**  [ipynb](https://github.com/
+**Link of Work:**  [ipynb](https://github.com/AvikantSrivastava/100-days-of-ML-Code/blob/master/Day1%20:%20MNIST%20GAN/mnist_gan.ipynb)
 
 
 

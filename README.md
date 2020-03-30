@@ -9,16 +9,26 @@
 
 **Link of Work:**  [ipynb](https://github.com/AvikantSrivastava/100-days-of-ML-Code/blob/master/Day1%20:%20MNIST%20GAN/mnist_gan.ipynb)
 
-  **References** 
+**References** 
   - https://towardsdatascience.com/dcgans-deep-convolutional-generative-adversarial-networks-c7f392c2c8f8
   - https://www.tensorflow.org/tutorials/generative/dcgan
   
 
 
-## Day 2 : March 30 , 2020
+## Day 2 : March 31 , 2020
 
-<!-- **Today's Progress** : I have completed initial training and testing of the model and submitted to the Kaggle . 
+**Today's Progress** : Built a network for CIFAR-10 dataset comprising Convolution, Max Pooling, Batch- Normalization and Dropout layers.
+Studied about dropout and batch normalization in detail and various ways to avoid overfitting in a network.
 
-**Thoughts** : The score have to be improved I will try my best on it and it is really fun .
+**Thoughts** : Looking forward to tweak the model and obtain a better accuracy and reduce the number of parameters. 
 
-**Link of Work:**  [Commit](https://github.com/LordSomen/100DaysOfML/commit/5cf906d86324c52dbd90896a57ee951befdcf0e3) -->
+**Link of Work:** 
+- [ipynb]()
+- [test.py]()
+
+
+**References**
+- https://appliedmachinelearning.blog/2018/03/24/achieving-90-accuracy-in-object-recognition-task-on-cifar-10-dataset-with-keras-convolutional-neural-networks/
+- https://towardsdatascience.com/cifar-10-image-classification-in-tensorflow-5b501f7dc77c
+
+

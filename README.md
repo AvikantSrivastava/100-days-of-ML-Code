@@ -1,12 +1,13 @@
 # 100 Days Of ML Code
 
-## Day 1 : March 30 , 2020 _MNIST GAN_
+## Day 1 : March 30, 2020 _MNIST GAN_
 
-\*_Today's Progress:_ Today I worked on DCGAN (Deep Convolutional Generative Adversarial Network). Implemented on the MNIST handwritten digits dataset to generate Handwritten digits.
+**Today's Progress:**_ Today I worked on DCGAN (Deep Convolutional Generative Adversarial Network). Implemented on the MNIST handwritten digits dataset to generate Handwritten digits.
 
 **Thoughts:** I will try DCGAN on slightly more complex datasets such as Fashion MNIST and CIFAR-10.
 
-**Link of Work:** [ipynb](https://github.com/AvikantSrivastava/100-days-of-ML-Code/blob/master/Day1%20:%20MNIST%20GAN/mnist_gan.ipynb)
+**Link of Work:** 
+- [ipynb](https://github.com/AvikantSrivastava/100-days-of-ML-Code/blob/master/Day1%20:%20MNIST%20GAN/mnist_gan.ipynb)
 
 **References**
 

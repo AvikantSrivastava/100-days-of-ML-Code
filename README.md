@@ -9,6 +9,8 @@
 **Link of Work:** 
 - [ipynb](https://github.com/AvikantSrivastava/100-days-of-ML-Code/blob/master/Day1%20:%20MNIST%20GAN/mnist_gan.ipynb)
 
+**Project Output** ![DCGAN](https://github.com/AvikantSrivastava/100-days-of-ML-Code/blob/master/Day1%20:%20MNIST%20GAN/dcgan.gif)
+
 **References**
 
 - [DCGANs (Deep Convolutional Generative Adversarial Networks)](https://towardsdatascience.com/dcgans-deep-convolutional-generative-adversarial-networks-c7f392c2c8f8)

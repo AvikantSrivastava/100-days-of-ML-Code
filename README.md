@@ -12,7 +12,7 @@
 **References**
 
 - [DCGANs (Deep Convolutional Generative Adversarial Networks)](https://towardsdatascience.com/dcgans-deep-convolutional-generative-adversarial-networks-c7f392c2c8f8)
-- [Deep Convolutional Generative Adversarial Network | TensorFlow Core](https://www.tensorflow.org/tutorials/generative/dcgan)
+- [Deep Convolutional Generative Adversarial Network TensorFlow Core](https://www.tensorflow.org/tutorials/generative/dcgan)
 
 ## Day 2: March 31, 2020 _CIFAR-10_
 
@@ -31,7 +31,7 @@ Studied about dropout and batch normalization in detail and various ways to avoi
 - [Achieving 90% accuracy in Object Recognition Task on CIFAR-10 Dataset with Keras: Convolutional Neural Networks - Machine Learning in Action ](https://appliedmachinelearning.blog/2018/03/24/achieving-90-accuracy-in-object-recognition-task-on-cifar-10-dataset-with-keras-convolutional-neural-networks/)
 - [CIFAR-10 Image Classification in TensorFlow - Towards Data Science ](https://towardsdatascience.com/cifar-10-image-classification-in-tensorflow-5b501f7dc77c)
 
-## Day 3 : April 1 , 2020 _Transfer Learning with InceptionV3_
+## Day 3 : April 1, 2020 _Transfer Learning with InceptionV3_
 
 **Today's Progress:** Today my goal was to get started with transfer learning and understand the architecture. I chose [InceptionV3](https://en.wikipedia.org/wiki/Inceptionv3) begin with. Started building the model by picking weights from Imagenet on Inception as the base model. Added a a couple of dense layer with dropouts to complete the model.
 The model was trained on 'Cats vs Dogs' dataset for 10 epochs with a training accuracy of 98.69%.
@@ -45,10 +45,25 @@ Also I am excited to try out more architectures such as ResNet, VGG and AlexNet.
 **References**
 
 - [Master Transfer learning by using Pre-trained Models in Deep Learning	](https://www.analyticsvidhya.com/blog/2017/06/transfer-learning-the-art-of-fine-tuning-a-pre-trained-model/)
-- [tf.keras.applications.InceptionV3 | TensorFlow Core v2.1.0](https://www.tensorflow.org/api_docs/python/tf/keras/applications/InceptionV3)
+- [tf.keras.applications.InceptionV3 TensorFlow Core v2.1.0](https://www.tensorflow.org/api_docs/python/tf/keras/applications/InceptionV3)
 
 - [Using Inception-v3 from TensorFlow Hub for transfer learning ](https://medium.com/@utsumuki_neko/using-inception-v3-from-tensorflow-hub-for-transfer-learning-a931ff884526)
 
+## Day 4 : April 1 , 2020 *Mask RCNN*
+
+**Today's Progress:**  Today I tried to understand the idea behind Mask Region-based Convolution Neural Network better known as Mask RCNN. While going though the references I also learned the following things
+- Object Localization
+- Instance Segmentation
+- Semantic Segmentation
+- ROI Pooling
+
+**References**
+
+- [GitHub - matterport/Mask_RCNN: Mask R-CNN for object detection and instance segmentation on Keras and TensorFlow](https://github.com/matterport/Mask_RCNN)
+  
+- [Mask R-CNN with OpenCV - PyImageSearch](https://www.pyimagesearch.com/2018/11/19/mask-r-cnn-with-opencv/)
+
+- [Review: DeepMask (Instance Segmentation) - Towards Data Science](https://towardsdatascience.com/review-deepmask-instance-segmentation-30327a072339)
 <!-- ## Day # : ########## *Dog Breed*
 
 **References**

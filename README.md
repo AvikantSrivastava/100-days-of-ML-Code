@@ -9,7 +9,7 @@
 **Link of Work:** 
 - [ipynb](https://github.com/AvikantSrivastava/100-days-of-ML-Code/blob/master/Day1%20:%20MNIST%20GAN/mnist_gan.ipynb)
 
-![DCGAN](https://github.com/AvikantSrivastava/100-days-of-ML-Code/blob/master/Day1%20:%20MNIST%20GAN/dcgan.gif)
+xdg![DCGAN](https://github.com/AvikantSrivastava/100-days-of-ML-Code/blob/master/Day1%20:%20MNIST%20GAN/dcgan.gif)
 
 **References**
 
@@ -35,7 +35,7 @@ Studied about dropout and batch normalization in detail and various ways to avoi
 
 ## Day 3 : April 1, 2020 _Transfer Learning with InceptionV3_
 
-**Today's Progress:** Today my goal was to get started with transfer learning and understand the architecture. I chose [InceptionV3](https://en.wikipedia.org/wiki/Inceptionv3) begin with. Started building the model by picking weights from Imagenet on Inception as the base model. Added a a couple of dense layer with dropouts to complete the model.
+**Today's Progress:** Today my goal was to get started with transfer learning and understand the architecture. I chose [InceptionV3](https://en.wikipedia.org/wiki/Inceptionv3) begin with. Started building the model by picking weights from Imagenet on Inception as the base model. Added a couple of dense layer with dropouts to complete the model.
 The model was trained on 'Cats vs Dogs' dataset for 10 epochs with a training accuracy of 98.69%.
 
 **Thoughts:** I am looking forward to implement the concept of Transfer Learning on a more project with a gain of accuracy.
@@ -51,7 +51,7 @@ Also I am excited to try out more architectures such as ResNet, VGG and AlexNet.
 
 - [Using Inception-v3 from TensorFlow Hub for transfer learning ](https://medium.com/@utsumuki_neko/using-inception-v3-from-tensorflow-hub-for-transfer-learning-a931ff884526)
 
-## Day 4 : April 1 , 2020 *Mask RCNN*
+## Day 4 : April 2 , 2020 *Mask RCNN*
 
 **Today's Progress:**  Today I tried to understand the idea behind Mask Region-based Convolution Neural Network better known as Mask RCNN. While going though the references I also learned the following things
 - Object Localization
@@ -66,6 +66,20 @@ Also I am excited to try out more architectures such as ResNet, VGG and AlexNet.
 - [Mask R-CNN with OpenCV - PyImageSearch](https://www.pyimagesearch.com/2018/11/19/mask-r-cnn-with-opencv/)
 
 - [Review: DeepMask (Instance Segmentation) - Towards Data Science](https://towardsdatascience.com/review-deepmask-instance-segmentation-30327a072339)
+
+## Day 4 : April 3 , 2020 *Mask RCNN on Images*
+
+**Today's Progress:** Today I implemented Mask RCNN on Images. I used Open CV as the platform to work. The model which I took for this task was trained on InceptionV2 on the COCO Dataset. 
+
+**Thoughts:** I am planning to implement Mask-RCNN next on videos. I want to work on the challenges with the video and learn about video processing all together.
+
+**Link of Work:** 
+- [mask_rcnn.py](https://github.com/AvikantSrivastava/100-days-of-ML-Code/blob/master/Day4%20and%205%20:%20Mask%20RCNN/mask_rcnn.py)
+
+**References**
+
+- [Mask R-CNN with OpenCV - PyImageSearch](https://www.pyimagesearch.com/2018/11/19/mask-r-cnn-with-opencv/)
+
   
 <!-- ## Day # : ########## *Dog Breed*
 

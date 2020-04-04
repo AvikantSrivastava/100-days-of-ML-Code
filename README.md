@@ -67,7 +67,7 @@ Also I am excited to try out more architectures such as ResNet, VGG and AlexNet.
 
 - [Review: DeepMask (Instance Segmentation) - Towards Data Science](https://towardsdatascience.com/review-deepmask-instance-segmentation-30327a072339)
 
-## Day 4 : April 3 , 2020 *Mask RCNN on Images*
+## Day 5 : April 3 , 2020 *Mask RCNN on Images*
 
 **Today's Progress:** Today I implemented Mask RCNN on Images. I used Open CV as the platform to work. The model which I took for this task was trained on InceptionV2 on the COCO Dataset. 
 

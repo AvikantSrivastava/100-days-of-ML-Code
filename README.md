@@ -80,7 +80,35 @@ Also I am excited to try out more architectures such as ResNet, VGG and AlexNet.
 
 - [Mask R-CNN with OpenCV - PyImageSearch](https://www.pyimagesearch.com/2018/11/19/mask-r-cnn-with-opencv/)
 
-  
+
+## Day 6 : April 4 , *Object Detection using Deep Learning*
+
+**Today's Progress:** Today I dove deep into the most in-demand application of the deep learning ie. Object Detection. So I started reading about the various existing architectures. 
+- Hog Features, 
+- R-CNN
+- Spatial Pyramid Pooling(SPP-net)
+- Fast R-CNN
+- Faster R-CNN
+- YOLO(You only Look Once)
+- Single Shot Detector(SSD)
+
+I discovered the working of these sophisticated architectures and compared the output result.
+
+**Thoughts:** After reading about such networks 'YOLO' and 'SSD' intrigued me the most. So I am looking forward to implement those network in a project form on images and videos.
+
+**References**
+- [Zero to Hero: Guide to Object Detection using Deep Learning: Faster R-CNN,YOLO,SSD](https://cv-tricks.com/object-detection/faster-r-cnn-yolo-ssd/)
+- [A 2019 Guide to Object Detection - Heartbeat	](https://heartbeat.fritz.ai/a-2019-guide-to-object-detection-9509987954c3)
+
+
+<!-- ## Day 7 : April 5 , **
+- https://arxiv.org/pdf/1506.02640.pdf
+- https://medium.com/@enriqueav/object-detection-with-yolo-implementations-and-how-to-use-them-5da928356035
+- https://cv-tricks.com/object-detection/faster-r-cnn-yolo-ssd/
+ -->
+
+
+
 <!-- ## Day # : ########## *Dog Breed*
 
 **References**

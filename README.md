@@ -81,10 +81,25 @@ Also I am excited to try out more architectures such as ResNet, VGG and AlexNet.
 - [Mask R-CNN with OpenCV - PyImageSearch](https://www.pyimagesearch.com/2018/11/19/mask-r-cnn-with-opencv/)
 
 
-## Day 6 : April 4 , *Object Detection using Deep Learning*
+## Day 5 : April 5 , *Mask RCNN on Videos*
+
+**Today's Progress:** Continuing with yesterday's work, I implemented Mask RCNN on video feed. The project was based on the same architecture and dataset as yesterday's. I tweaked the script to work on videos.
+
+**Thoughts:** Today's implementation was quite computationally expensive. A 120-frame, 4-second video took around 10 minutes to process. The network may not be the fastest but it is quite good in terms of accuracy of detecting and masking objects. So I want to try out more computer vision techniques to do same or a similar job.
+
+**Link of Work:** 
+- [mask_rcnn_videos.py](https://github.com/AvikantSrivastava/100-days-of-ML-Code/blob/master/Day6%20:%20Mask-RCNN%20on%20Videos/mask_rcnn_videos.py)
+
+**References**
+
+- [Mask R-CNN with OpenCV - PyImageSearch](https://www.pyimagesearch.com/2018/11/19/mask-r-cnn-with-opencv/)
+
+
+
+## Day 6 : April 5 , *Object Detection using Deep Learning*
 
 **Today's Progress:** Today I dove deep into the most in-demand application of the deep learning ie. Object Detection. So I started reading about the various existing architectures. 
-- Hog Features, 
+- Hog Features
 - R-CNN
 - Spatial Pyramid Pooling(SPP-net)
 - Fast R-CNN

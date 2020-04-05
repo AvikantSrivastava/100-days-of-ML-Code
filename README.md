@@ -9,7 +9,7 @@
 **Link of Work:** 
 - [ipynb](https://github.com/AvikantSrivastava/100-days-of-ML-Code/blob/master/Day1%20:%20MNIST%20GAN/mnist_gan.ipynb)
 
-xdg![DCGAN](https://github.com/AvikantSrivastava/100-days-of-ML-Code/blob/master/Day1%20:%20MNIST%20GAN/dcgan.gif)
+![DCGAN](https://github.com/AvikantSrivastava/100-days-of-ML-Code/blob/master/Day1%20:%20MNIST%20GAN/dcgan.gif)
 
 **References**
 
@@ -81,7 +81,7 @@ Also I am excited to try out more architectures such as ResNet, VGG and AlexNet.
 - [Mask R-CNN with OpenCV - PyImageSearch](https://www.pyimagesearch.com/2018/11/19/mask-r-cnn-with-opencv/)
 
 
-## Day 5 : April 5 , *Mask RCNN on Videos*
+## Day 6 : April 4 , *Mask RCNN on Videos*
 
 **Today's Progress:** Continuing with yesterday's work, I implemented Mask RCNN on video feed. The project was based on the same architecture and dataset as yesterday's. I tweaked the script to work on videos.
 
@@ -96,7 +96,7 @@ Also I am excited to try out more architectures such as ResNet, VGG and AlexNet.
 
 
 
-## Day 6 : April 5 , *Object Detection using Deep Learning*
+## Day 7 : April 5 , *Object Detection using Deep Learning*
 
 **Today's Progress:** Today I dove deep into the most in-demand application of the deep learning ie. Object Detection. So I started reading about the various existing architectures. 
 - Hog Features

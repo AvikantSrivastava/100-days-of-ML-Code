@@ -9,7 +9,7 @@
 **Link of Work:** 
 - [ipynb](https://github.com/AvikantSrivastava/100-days-of-ML-Code/blob/master/Day1%20:%20MNIST%20GAN/mnist_gan.ipynb)
 
-![DCGAN](https://raw.githubusercontent.com/AvikantSrivastava/100-days-of-ML-Code/master/Day1%20%3A%20MNIST%20GAN/dcgan.gif)
+- ![DCGAN](https://raw.githubusercontent.com/AvikantSrivastava/100-days-of-ML-Code/master/Day1%20%3A%20MNIST%20GAN/dcgan.gif)
 
 **References**
 
@@ -115,6 +115,15 @@ I discovered the working of these sophisticated architectures and compared the o
 - [Zero to Hero: Guide to Object Detection using Deep Learning: Faster R-CNN,YOLO,SSD](https://cv-tricks.com/object-detection/faster-r-cnn-yolo-ssd/)
 - [A 2019 Guide to Object Detection - Heartbeat	](https://heartbeat.fritz.ai/a-2019-guide-to-object-detection-9509987954c3)
 
+
+## Day 8 : April 6, *Deep Generative Models*
+
+**Today's Progress:** Today I started with Deep Generative Modeling as part of [MIT's Introduction to Deep Learning](http://introtodeeplearning.com/).
+
+**References**
+- [Deep Generative Models - Towards Data Science](https://towardsdatascience.com/deep-generative-models-25ab2821afd3)
+- [Deep Generative Modeling MIT 6.S191 Youtube](https://www.youtube.com/watch?v=rZufA635dq4)
+- [Deep Generative Modeling Slides](http://introtodeeplearning.com/slides/6S191_MIT_DeepLearning_L4.pdf)
 
 <!-- ## Day 7 : April 5 , **
 - https://arxiv.org/pdf/1506.02640.pdf

@@ -9,7 +9,7 @@
 **Link of Work:** 
 - [ipynb](https://github.com/AvikantSrivastava/100-days-of-ML-Code/blob/master/Day1%20:%20MNIST%20GAN/mnist_gan.ipynb)
 
-![DCGAN](https://github.com/AvikantSrivastava/100-days-of-ML-Code/blob/master/Day1%20:%20MNIST%20GAN/dcgan.gif)
+![DCGAN](https://raw.githubusercontent.com/AvikantSrivastava/100-days-of-ML-Code/master/Day1%20%3A%20MNIST%20GAN/dcgan.gif)
 
 **References**
 

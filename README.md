@@ -125,12 +125,26 @@ I discovered the working of these sophisticated architectures and compared the o
 - [Deep Generative Modeling MIT 6.S191 Youtube](https://www.youtube.com/watch?v=rZufA635dq4)
 - [Deep Generative Modeling Slides](http://introtodeeplearning.com/slides/6S191_MIT_DeepLearning_L4.pdf)
 
+
+## Day 9 : April 7, *Linear Regression in Numpy*
+
+**Today's Progress:** Today I read about learning regression in detail with the implementation in numpy. I used normal equation to calculate the weights of a function. The weights were determined on a random generated data. The data contained x and y pair with a linear relation of ' y = 4 + 3x'.
+
+**Thoughts:** Understanding the algorithms at the fundamental level is a requisite for anyone who practices Machine Learning. Looking forward to understand the basic methods at fundamental level.
+
+**Link of Work:**
+
+-  [Read here](https://github.com/AvikantSrivastava/100-days-of-ML-Code/blob/master/Day9%20:%20Linear%20Regression/linear_regression.md)
+- ![](https://raw.githubusercontent.com/AvikantSrivastava/100-days-of-ML-Code/master/Day9%20%3A%20Linear%20Regression/output_8_0.png)
+
+**References** 
+- [Hands–On Machine Learning with Scikit–Learn and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
+
 <!-- ## Day 7 : April 5 , **
 - https://arxiv.org/pdf/1506.02640.pdf
 - https://medium.com/@enriqueav/object-detection-with-yolo-implementations-and-how-to-use-them-5da928356035
 - https://cv-tricks.com/object-detection/faster-r-cnn-yolo-ssd/
  -->
-
 
 
 <!-- ## Day # : ########## *Dog Breed*

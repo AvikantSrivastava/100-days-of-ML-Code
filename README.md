@@ -134,11 +134,27 @@ I discovered the working of these sophisticated architectures and compared the o
 
 **Link of Work:**
 
--  [Read here](https://github.com/AvikantSrivastava/100-days-of-ML-Code/blob/master/Day9%20:%20Linear%20Regression/linear_regression.md)
+-  [code](https://github.com/AvikantSrivastava/100-days-of-ML-Code/blob/master/Day9%20:%20Linear%20Regression/linear_regression.md)
 - ![](https://raw.githubusercontent.com/AvikantSrivastava/100-days-of-ML-Code/master/Day9%20%3A%20Linear%20Regression/output_8_0.png)
 
 **References** 
 - [Hands–On Machine Learning with Scikit–Learn and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
+
+
+## Day 10 : April 8, *Gradient Descent techniques*
+
+**Today's Progress:** I learned about the various types of gradient descent methods namely Batch Gradient Descent,Stochastic Gradient Descent and Mini Batch Gradient Descent. I implemented the same with sklearn library in python. I also learned about learning rate schedule and made a LR schedular.
+And finally compared the speed, architecture and use of various Gradient Descent techniques. 
+
+**Thoughts:** It is good to know, what goes on underneath every process in Machine Learning.
+
+**Link of Work:**
+
+- [code](https://github.com/AvikantSrivastava/100-days-of-ML-Code/blob/master/Day10:%20Gradient%20Descent/gradient%20descent.md)
+
+**References** 
+- [Hands–On Machine Learning with Scikit–Learn and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
+
 
 <!-- ## Day 7 : April 5 , **
 - https://arxiv.org/pdf/1506.02640.pdf

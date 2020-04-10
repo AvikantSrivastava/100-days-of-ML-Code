@@ -134,7 +134,7 @@ I discovered the working of these sophisticated architectures and compared the o
 
 **Link of Work:**
 
--  [code](https://github.com/AvikantSrivastava/100-days-of-ML-Code/blob/master/Day9%20:%20Linear%20Regression/linear_regression.md)
+-  [[code]](https://github.com/AvikantSrivastava/100-days-of-ML-Code/blob/master/Day9%20:%20Linear%20Regression/linear_regression.md)
 - ![](https://raw.githubusercontent.com/AvikantSrivastava/100-days-of-ML-Code/master/Day9%20%3A%20Linear%20Regression/output_8_0.png)
 
 **References** 
@@ -150,10 +150,28 @@ And finally compared the speed, architecture and use of various Gradient Descent
 
 **Link of Work:**
 
-- [code](https://github.com/AvikantSrivastava/100-days-of-ML-Code/blob/master/Day10:%20Gradient%20Descent/gradient%20descent.md)
+- [[code]](https://github.com/AvikantSrivastava/100-days-of-ML-Code/blob/master/Day10:%20Gradient%20Descent/gradient%20descent.md)
 
 **References** 
 - [Hands–On Machine Learning with Scikit–Learn and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
+
+
+## Day 11 : April 9, *Polynomial Regression*
+
+**Today's Progress:** Worked on polynomial regression to fit the curves with higher degree. Made a simple dataset(collection on random points which falls near the equation) and analysed it with polynomial regression.
+
+**Link of Work:**
+
+-   [[code]](https://github.com/AvikantSrivastava/100-days-of-ML-Code/blob/master/Day11%20:%20Polynomial%20Regression/polynomical%20regression.md)
+- - Blue: Train Accuracy
+  - Red : Test Accuracy
+  - ![](https://raw.githubusercontent.com/AvikantSrivastava/100-days-of-ML-Code/master/Day11%20%3A%20Polynomial%20Regression/output_7_0.png)
+- 10 degree polynomial
+- - ![](https://raw.githubusercontent.com/AvikantSrivastava/100-days-of-ML-Code/master/Day11%20%3A%20Polynomial%20Regression/output_10_0.png)
+
+**References** 
+- [Hands–On Machine Learning with Scikit–Learn and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
+
 
 
 <!-- ## Day 7 : April 5 , **

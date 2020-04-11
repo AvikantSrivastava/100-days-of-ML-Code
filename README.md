@@ -173,6 +173,19 @@ And finally compared the speed, architecture and use of various Gradient Descent
 - [Hands–On Machine Learning with Scikit–Learn and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
 
 
+## Day 12 : April 10, *YOLO object detection*
+
+**Today's Progress:** I worked on Yolo and implemented it in OpenCV. I tried two different version of weights from Darknet yolov3-tiny.weights and yolov3.weights.
+
+**Thoughts:** Yolo is fast compared to other algorithms and can be implemented on hardware constraints environments without a sweat.
+
+**Link of Work:**
+- [[code]](https://github.com/AvikantSrivastava/100-days-of-ML-Code/blob/master/Day12%20:%20Yolo/yolo.py)
+![](https://github.com/AvikantSrivastava/100-days-of-ML-Code/raw/master/Day12%20:%20Yolo/output.jpg)
+
+
+- [YOLO: Real-Time Object Detection	](https://pjreddie.com/darknet/yolo/)
+- [YOLO object detection with OpenCV - PyImageSearch	](https://www.pyimagesearch.com/2018/11/12/yolo-object-detection-with-opencv/	)
 
 <!-- ## Day 7 : April 5 , **
 - https://arxiv.org/pdf/1506.02640.pdf

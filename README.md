@@ -218,18 +218,18 @@ And finally compared the speed, architecture and use of various Gradient Descent
 - [Hands–On Machine Learning with Scikit–Learn and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
 
 
-<!-- 
-## Day 15 : April 13, *name*
 
-**Today's Progress:** haha
+## Day 15 : April 13, *Binary Classifier Anime face vs Human face*
 
-**Thoughts:** haha
+**Today's Progress:** Made a binary classifier on a custom dataset. Did a little web scraping to collect anime faces and human faces. 
+
+**Thoughts:** Looking forward to work on GANs with the same dataset.
 
 **Link of Work:**
-- haha
-**References**
+  ![](https://raw.githubusercontent.com/AvikantSrivastava/100-days-of-ML-Code/master/Day15%20%3A%20Human%20vs%20Anime%20Face/download.png)
+- [[python code]](https://github.com/AvikantSrivastava/100-days-of-ML-Code/blob/master/Day15%20:%20Human%20vs%20Anime%20Face/test1.py)
+- [[ipynb]](https://github.com/AvikantSrivastava/100-days-of-ML-Code/blob/master/Day15%20:%20Human%20vs%20Anime%20Face/anime-vs-human.ipynb)
 
-- haha -->
 
 
 

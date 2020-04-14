@@ -130,7 +130,7 @@ I discovered the working of these sophisticated architectures and compared the o
 
 **Today's Progress:** Today I read about learning regression in detail with the implementation in numpy. I used normal equation to calculate the weights of a function. The weights were determined on a random generated data. The data contained x and y pair with a linear relation of ' y = 4 + 3x'.
 
-**Thoughts:** Understanding the algorithms at the fundamental level is a requisite for anyone who practices Machine Learning. Looking forward to understand the basic methods at fundamental level.
+**Thoughts:** Understanding the algorithms at the fundamental level is a requisite for anyone who practices Machine Learning. Looking forward to understand the basic methods at a fundamental level.
 
 **Link of Work:**
 
@@ -183,9 +183,90 @@ And finally compared the speed, architecture and use of various Gradient Descent
 - [[code]](https://github.com/AvikantSrivastava/100-days-of-ML-Code/blob/master/Day12%20:%20Yolo/yolo.py)
 ![](https://github.com/AvikantSrivastava/100-days-of-ML-Code/raw/master/Day12%20:%20Yolo/output.jpg)
 
+**References**
 
 - [YOLO: Real-Time Object Detection	](https://pjreddie.com/darknet/yolo/)
 - [YOLO object detection with OpenCV - PyImageSearch	](https://www.pyimagesearch.com/2018/11/12/yolo-object-detection-with-opencv/	)
+
+
+
+## Day 13 : April 11, *Regularized linear Models*
+
+**Today's Progress:** Learned about different ways to reduce overfitting in a model. Studied 3 different methods in depth. Read about the working of the following methods with mathematic understanding.
+- Ridge Regression
+- Lasso Regression
+- Elastic Net
+  
+
+**Thoughts:** Overfitting can be avoided using the Regularized Models, having a good understanding is a icing on the cake.
+
+**References**
+
+- [Hands–On Machine Learning with Scikit–Learn and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
+
+
+
+## Day 14 : April 12, *Logistic Regression*
+
+**Today's Progress:** Read about Logistic Regression. Logistic Regression (also called Logit Regression) is commonly used to estimate the probability that an instance belongs to a particular class.
+- Estimating Probabilities
+- Training and Cost Function
+- Decision Boundaries
+
+**References**
+
+- [Hands–On Machine Learning with Scikit–Learn and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
+
+
+<!-- 
+## Day 15 : April 13, *name*
+
+**Today's Progress:** haha
+
+**Thoughts:** haha
+
+**Link of Work:**
+- haha
+**References**
+
+- haha -->
+
+
+
+
+
+
+
+
+<!-- 
+
+template
+## Day 0 : month day, *name*
+
+**Today's Progress:** haha
+
+**Thoughts:** haha
+
+**Link of Work:**
+- haha
+**References**
+
+- haha
+
+ -->
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <!-- ## Day 7 : April 5 , **
 - https://arxiv.org/pdf/1506.02640.pdf

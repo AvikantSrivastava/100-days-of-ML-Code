@@ -175,7 +175,7 @@ And finally compared the speed, architecture and use of various Gradient Descent
 
 ## Day 12 : April 10, *YOLO object detection*
 
-**Today's Progress:** I worked on Yolo and implemented it in OpenCV. I tried two different version of weights from Darknet yolov3-tiny.weights and yolov3.weights.
+**Today's Progress:** I worked on Yolo and implemented it in OpenCV. I tried two different versions of weights from Darknet yolov3-tiny.weights and yolov3.weights.
 
 **Thoughts:** Yolo is fast compared to other algorithms and can be implemented on hardware constraints environments without a sweat.
 
@@ -231,6 +231,31 @@ And finally compared the speed, architecture and use of various Gradient Descent
 - [[ipynb]](https://github.com/AvikantSrivastava/100-days-of-ML-Code/blob/master/Day15%20:%20Human%20vs%20Anime%20Face/anime-vs-human.ipynb)
 
 
+## Day 16 : April 14, *Support Vector Machines Introduction*
+**Today's Progress:** Started off with reading about SVMs (Support Vector Machines) and got an intuition on what SVM is and how it is used to solve a Classification problem.
+
+**References**
+- [Hands–On Machine Learning with Scikit–Learn and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
+
+
+## Day 17 : April 15, *Softmargin SVM Classification*
+**Today's Progress:** Implemented Softmargin classification on IRIS dataset in sklearn library.
+
+**Link of Work:** [[python code]](https://github.com/AvikantSrivastava/100-days-of-ML-Code/blob/master/Day17%20:%20Softmargin%20SVM%20Classification/iris%20dataset%20using%20svm.md)
+
+## Day 18 : April 16, *Backpropagation in Neural Networks*
+**Today's Progress:** I tried to dig deeper and understood the mathematics behind the backpropagation algorithm. Learned about the calculus, vectorization and cost function behind every neuron in a network.
+
+**Work**
+![](https://github.com/AvikantSrivastava/100-days-of-ML-Code/raw/master/Day18%20:%20Backpropagation/backprop1.jpeg)
+
+![](https://github.com/AvikantSrivastava/100-days-of-ML-Code/raw/master/Day18%20:%20Backpropagation/backprop2jpeg)
+
+**References** 
+- [How Does Back-Propagation in Artificial Neural Networks Work?](https://towardsdatascience.com/how-does-back-propagation-in-artificial-neural-networks-work-c7cad873ea7)
+- [What is backpropagation really doing? Deep learning, chapter 3](https://www.youtube.com/watch?v=Ilg3gGewQ5U)
+
+<!-- ## Day 19 : April 17, *Support Vector Machines* -->
 
 
 

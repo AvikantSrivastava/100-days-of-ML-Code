@@ -25,6 +25,12 @@ Studied about dropout and batch normalization in detail and various ways to avoi
 
 **Link of Work:**
 
+  ![](https://github.com/AvikantSrivastava/100-days-of-ML-Code/raw/master/Day2%20:%20CIFAR-10/bird.png)
+
+  ![](https://github.com/AvikantSrivastava/100-days-of-ML-Code/raw/master/Day2%20:%20CIFAR-10/car.png)
+
+  ![](https://github.com/AvikantSrivastava/100-days-of-ML-Code/raw/master/Day2%20:%20CIFAR-10/plane.png)
+
 - [ipynb](https://github.com/AvikantSrivastava/100-days-of-ML-Code/blob/master/Day2%20:%20CIFAR-10/cifar10.ipynb)
 - [test.py](https://github.com/AvikantSrivastava/100-days-of-ML-Code/blob/master/Day2%20:%20CIFAR-10/test1.py)
 

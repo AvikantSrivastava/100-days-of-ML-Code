@@ -2,14 +2,15 @@
 
 ## Day 1 : March 30, 2020 _MNIST GAN_
 
-**Today's Progress:**_ Today I worked on DCGAN (Deep Convolutional Generative Adversarial Network). Implemented on the MNIST handwritten digits dataset to generate Handwritten digits.
+<h3><div style="text-align:center">Generated Fake handwritten digits using AI</div></h3>
+<div style="text-align:center"><img src= "https://raw.githubusercontent.com/AvikantSrivastava/100-days-of-ML-Code/master/Day1%20%3A%20MNIST%20GAN/dcgan.gif"></div>
+
+**Today's Progress:** Today I worked on DCGAN (Deep Convolutional Generative Adversarial Network). Implemented on the MNIST handwritten digits dataset to generate Handwritten digits.
 
 **Thoughts:** I will try DCGAN on slightly more complex datasets such as Fashion MNIST and CIFAR-10.
 
 **Link of Work:** 
 - [ipynb](https://github.com/AvikantSrivastava/100-days-of-ML-Code/blob/master/Day1%20:%20MNIST%20GAN/mnist_gan.ipynb)
-
-- ![DCGAN](https://raw.githubusercontent.com/AvikantSrivastava/100-days-of-ML-Code/master/Day1%20%3A%20MNIST%20GAN/dcgan.gif)
 
 **References**
 
@@ -18,6 +19,12 @@
 
 ## Day 2: March 31, 2020 _CIFAR-10_
 
+<h3><div style="text-align:center">Basic Image Classification using AI</div></h3>
+<div style="text-align:center"><img src= "https://github.com/AvikantSrivastava/100-days-of-ML-Code/raw/master/Day2%20:%20CIFAR-10/bird.png"></div>
+<div style="text-align:center"><img src= "https://github.com/AvikantSrivastava/100-days-of-ML-Code/raw/master/Day2%20:%20CIFAR-10/car.png"></div>
+<div style="text-align:center"><img src= "https://github.com/AvikantSrivastava/100-days-of-ML-Code/raw/master/Day2%20:%20CIFAR-10/plane.png"></div>
+
+
 **Today's Progress:** Built a network for CIFAR-10 dataset comprising Convolution, Max Pooling, Batch- Normalization and Dropout layers.
 Studied about dropout and batch normalization in detail and various ways to avoid overfitting in a network.
 
@@ -25,11 +32,6 @@ Studied about dropout and batch normalization in detail and various ways to avoi
 
 **Link of Work:**
 
-  ![](https://github.com/AvikantSrivastava/100-days-of-ML-Code/raw/master/Day2%20:%20CIFAR-10/bird.png)
-
-  ![](https://github.com/AvikantSrivastava/100-days-of-ML-Code/raw/master/Day2%20:%20CIFAR-10/car.png)
-
-  ![](https://github.com/AvikantSrivastava/100-days-of-ML-Code/raw/master/Day2%20:%20CIFAR-10/plane.png)
 
 - [ipynb](https://github.com/AvikantSrivastava/100-days-of-ML-Code/blob/master/Day2%20:%20CIFAR-10/cifar10.ipynb)
 - [test.py](https://github.com/AvikantSrivastava/100-days-of-ML-Code/blob/master/Day2%20:%20CIFAR-10/test1.py)
